@@ -1,4 +1,4 @@
-<img width="1440" alt="Screenshot 2024-12-21 at 6 38 32 PM" src="https://github.com/user-attachments/assets/3f94d777-9a0d-4f7d-b114-e0e84b867d18" />**Name**: JAVERIA MAHEEN 
+**Name**: JAVERIA MAHEEN 
 **Company**: CODETECH IT SOLUTIONS 
 **ID**: CT08DS624 
 **Domain**: Frontend Web Development 
